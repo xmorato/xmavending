@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5344777e2431cc8148b405658f255b12",
+    "revision": "50888189577280285732b5d9820a1db8",
     "url": "/xmavending/index.html"
   },
   {
-    "revision": "07494f0fcb1d9411e1de",
+    "revision": "eb076a07039e3e390704",
     "url": "/xmavending/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xmavending/static/js/2.e44e4214.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07494f0fcb1d9411e1de",
-    "url": "/xmavending/static/js/main.d7c02798.chunk.js"
+    "revision": "eb076a07039e3e390704",
+    "url": "/xmavending/static/js/main.0be8b3be.chunk.js"
   },
   {
     "revision": "97a93779d957ecd390fb",

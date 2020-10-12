@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xmavending/precache-manifest.e270f4485f84fe6937c7c30ba6c781c9.js"
+  "/xmavending/precache-manifest.9c3002b666b29a6edccbb5348535aaad.js"
 );
 
 self.addEventListener('message', (event) => {
