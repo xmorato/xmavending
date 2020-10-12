@@ -14,7 +14,6 @@ export const cashMachineReducer = (state = initialState, action) => {
                 })
             }
         case UPDATE_CASH_MACHINE: {
-            console.log("payload", action.payload)
             return (action.payload)
         }
 
