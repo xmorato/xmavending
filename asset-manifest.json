@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xmavending/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/xmavending/static/js/main.d7c02798.chunk.js",
+    "main.js.map": "/xmavending/static/js/main.d7c02798.chunk.js.map",
+    "runtime-main.js": "/xmavending/static/js/runtime-main.86cdda9d.js",
+    "runtime-main.js.map": "/xmavending/static/js/runtime-main.86cdda9d.js.map",
+    "static/js/2.e44e4214.chunk.js": "/xmavending/static/js/2.e44e4214.chunk.js",
+    "static/js/2.e44e4214.chunk.js.map": "/xmavending/static/js/2.e44e4214.chunk.js.map",
+    "index.html": "/xmavending/index.html",
+    "precache-manifest.e270f4485f84fe6937c7c30ba6c781c9.js": "/xmavending/precache-manifest.e270f4485f84fe6937c7c30ba6c781c9.js",
+    "service-worker.js": "/xmavending/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/xmavending/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e44e4214.chunk.js.LICENSE.txt": "/xmavending/static/js/2.e44e4214.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cdda9d.js",
+    "static/js/2.e44e4214.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d7c02798.chunk.js"
+  ]
+}

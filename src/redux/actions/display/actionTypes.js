@@ -1,2 +1,0 @@
-export const CHANGE_MESSAGE = "CHANGE_MESSAGE";
-export const RESET_MESSAGE = "RESET_MESSAGE";

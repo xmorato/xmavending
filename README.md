@@ -1,2 +1,0 @@
-# xmavending
-XMA Vending Machine
