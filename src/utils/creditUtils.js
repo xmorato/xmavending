@@ -3,7 +3,7 @@ import { config } from '../config'
 /**
  * Check if credit is enough to buy a product with this price
  * @param {*} price 
- * @param {*} credit 
+ * @param {*} credit object with coins amounts
  */
 
 export const enoughCredit = (price, credit) => {
