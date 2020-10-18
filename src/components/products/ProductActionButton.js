@@ -52,7 +52,7 @@ export const ProductActionButton = (props) => {
                 </Typography>
             </Button>
             : <Box>
-                <Button variant="outlined" onClick={onAddClick}>+</Button>
+                <Button variant="outlined" id="incrementButton" onClick={onAddClick}>+</Button>
                 <Button variant="outlined" disabled={stock === 0} onClick={onDecrementClick}>-</Button>
             </Box>
     )
